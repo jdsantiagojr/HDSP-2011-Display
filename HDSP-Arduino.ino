@@ -100,7 +100,7 @@ void startUpMessage() {
   delay(3000);
 }
 void loop() {
-    char intro[] = "         Hello World! 1234567890 !@#$%^&*() ";
+    char intro[] = "         Hello Victor! h@ppy h0l1d4y5 ... Love Dad! ";
     startUpMessage();
     scrollDisplay(intro);
     delay(2000);
